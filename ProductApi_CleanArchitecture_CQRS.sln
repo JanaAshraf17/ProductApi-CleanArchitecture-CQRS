@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductApi_CleanArchitecture_CQRS", "ProductApi_CleanArchitecture_CQRS.csproj", "{8C0F5174-D596-4E75-AF3A-D3BEE2A2B0D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C0F5174-D596-4E75-AF3A-D3BEE2A2B0D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C0F5174-D596-4E75-AF3A-D3BEE2A2B0D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C0F5174-D596-4E75-AF3A-D3BEE2A2B0D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C0F5174-D596-4E75-AF3A-D3BEE2A2B0D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCE7FE86-2B3A-4EBA-B554-B5CF74FCA574}
+	EndGlobalSection
+EndGlobal
